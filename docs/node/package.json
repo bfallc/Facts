@@ -1,0 +1,15 @@
+{
+  "name": "npm_facts",
+  "version": "1.0.0",
+  "description": "Facts project",
+  "main": "facts.js",
+  "scripts": {
+    "start": "node facts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
